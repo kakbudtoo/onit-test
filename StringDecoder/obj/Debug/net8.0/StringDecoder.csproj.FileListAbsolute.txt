@@ -1,0 +1,14 @@
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\StringDecoder.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\StringDecoder.AssemblyInfoInputs.cache
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\StringDecoder.AssemblyInfo.cs
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\StringDecoder.csproj.CoreCompileInputs.cache
+F:\programs\MyProjects\StringDecoder\bin\Debug\net8.0\StringDecoder.exe
+F:\programs\MyProjects\StringDecoder\bin\Debug\net8.0\StringDecoder.deps.json
+F:\programs\MyProjects\StringDecoder\bin\Debug\net8.0\StringDecoder.runtimeconfig.json
+F:\programs\MyProjects\StringDecoder\bin\Debug\net8.0\StringDecoder.dll
+F:\programs\MyProjects\StringDecoder\bin\Debug\net8.0\StringDecoder.pdb
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\StringDecoder.dll
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\refint\StringDecoder.dll
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\StringDecoder.pdb
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\StringDecoder.genruntimeconfig.cache
+F:\programs\MyProjects\StringDecoder\obj\Debug\net8.0\ref\StringDecoder.dll
