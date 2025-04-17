@@ -1,1 +1,1 @@
-# onit-test
+# Тестовые задания для ООО "ОНИТ" на позицию middle C# developer
