@@ -1,0 +1,14 @@
+F:\programs\MyProjects\PathFinder\bin\Debug\net8.0\PathFinder.exe
+F:\programs\MyProjects\PathFinder\bin\Debug\net8.0\PathFinder.deps.json
+F:\programs\MyProjects\PathFinder\bin\Debug\net8.0\PathFinder.runtimeconfig.json
+F:\programs\MyProjects\PathFinder\bin\Debug\net8.0\PathFinder.dll
+F:\programs\MyProjects\PathFinder\bin\Debug\net8.0\PathFinder.pdb
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\PathFinder.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\PathFinder.AssemblyInfoInputs.cache
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\PathFinder.AssemblyInfo.cs
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\PathFinder.csproj.CoreCompileInputs.cache
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\PathFinder.dll
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\refint\PathFinder.dll
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\PathFinder.pdb
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\PathFinder.genruntimeconfig.cache
+F:\programs\MyProjects\PathFinder\obj\Debug\net8.0\ref\PathFinder.dll
