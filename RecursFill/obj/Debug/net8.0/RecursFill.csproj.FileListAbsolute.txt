@@ -1,0 +1,14 @@
+F:\programs\MyProjects\RecursFill\bin\Debug\net8.0\RecursFill.exe
+F:\programs\MyProjects\RecursFill\bin\Debug\net8.0\RecursFill.deps.json
+F:\programs\MyProjects\RecursFill\bin\Debug\net8.0\RecursFill.runtimeconfig.json
+F:\programs\MyProjects\RecursFill\bin\Debug\net8.0\RecursFill.dll
+F:\programs\MyProjects\RecursFill\bin\Debug\net8.0\RecursFill.pdb
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\RecursFill.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\RecursFill.AssemblyInfoInputs.cache
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\RecursFill.AssemblyInfo.cs
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\RecursFill.csproj.CoreCompileInputs.cache
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\RecursFill.dll
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\refint\RecursFill.dll
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\RecursFill.pdb
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\RecursFill.genruntimeconfig.cache
+F:\programs\MyProjects\RecursFill\obj\Debug\net8.0\ref\RecursFill.dll
